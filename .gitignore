@@ -1,0 +1,10 @@
+# ignore individual file
+
+.env
+app.py
+
+# ignore folders
+
+static/
+templates/
+__pycache__/
